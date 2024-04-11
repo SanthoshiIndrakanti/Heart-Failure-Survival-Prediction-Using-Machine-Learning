@@ -1,0 +1,2 @@
+# Heart-Failure-Survival-Prediction-Using-Machine-Learning
+This project aims to leverage machine learning techniques to predict  survival outcomes in patients with heart failure, utilizing a dataset of 299 patients. By analyzing electronic medical records that quantify symptoms and clinical laboratory test values that can aid in estimating heart failure mortality rates and identifying key risk factors.
